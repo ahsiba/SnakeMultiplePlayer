@@ -8,9 +8,9 @@ const SnakeLadderDisplay = (prop) => {
             {prop.snake}
             {prop.ladder}
             </div>
-            <span>
+            <p><span>
               {prop.playerEmoji}
-            </span>
+            </span></p>
             
 
         </div>
